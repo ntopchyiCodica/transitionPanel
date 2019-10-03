@@ -1,2 +1,0 @@
-# transitionPanel
-Created with CodeSandbox
